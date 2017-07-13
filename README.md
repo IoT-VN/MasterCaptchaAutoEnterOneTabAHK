@@ -2,6 +2,7 @@
 ## Hướng Dẫn
 - Mở nhiều tab trên cùng 1 trình duyệt
 - Chạy Tool
+- Dùng Enter để chuyển tab
 - Chỉ vậy thôi !
 ### [DOWNLOAD]
 - [EXE](https://raw.githubusercontent.com/MasterMindVN/MasterCaptchaAutoEnterOneTabAHK/master/Release/Master%20Captcha%20Tab.exe)
